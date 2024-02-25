@@ -1,0 +1,16 @@
+.web{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: large;
+    background-color: rgb(172, 129, 212);
+}
+*{
+    background-color: rgb(230, 193, 230);
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 300px;
+    ;
+}
